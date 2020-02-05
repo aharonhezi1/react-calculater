@@ -1,0 +1,9 @@
+.shortcut{
+    background-color:#c4c1cc;
+    color: black;
+ 
+}
+
+.shortcut:active{
+background-color: darken($color: #c4c1cc, $amount: 10)
+}

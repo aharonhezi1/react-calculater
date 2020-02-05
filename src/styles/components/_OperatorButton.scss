@@ -1,0 +1,7 @@
+.operator{
+    background-color:#f8841a;
+    color:white;
+}
+.operator:active{
+    background-color: darken($color: #f8841a, $amount: 10)
+  }

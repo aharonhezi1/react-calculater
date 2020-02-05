@@ -1,0 +1,9 @@
+.numbers{
+   background-color: #e0e0e7;
+   color: black ;
+}   
+
+.numbers:active{
+        background-color: darken($color: #c4c2cc, $amount: 10)
+      }
+ 
