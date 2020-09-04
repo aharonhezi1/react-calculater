@@ -24,7 +24,7 @@
     "extract-text-webpack-plugin": "3.0.0",
     "live-server": "^1.2.0",
     "node": "8.11.4",
-    "node-sass": "4.5.3",
+    "node-sass": "4.13.1",
     "normalize.css": "7.0.0",
     "raf": "3.3.2",
     "react": "15.6.1",
